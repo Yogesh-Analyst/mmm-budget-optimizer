@@ -1,0 +1,13 @@
+{
+  "dataset": "Indian ed-tech mix (simulated, INR)",
+  "weeks": 156,
+  "train_weeks": 124,
+  "holdout_weeks": 32,
+  "in_sample_mape": 0.028888621642747657,
+  "in_sample_r2": 0.8851381551482496,
+  "holdout_mape": 0.0436366170524506,
+  "media_share_of_revenue": 0.47266123199628884,
+  "max_rhat": 1.0059751162159922,
+  "min_ess_bulk": 935.8176050101887,
+  "divergences": 9
+}

@@ -1,0 +1,51 @@
+{
+  "alpha": {
+    "meta": 0.25,
+    "google_search": 0.1,
+    "pmax": 0.2,
+    "youtube": 0.55,
+    "linkedin": 0.35
+  },
+  "lam": {
+    "meta": 2.5,
+    "google_search": 3.5,
+    "pmax": 2.0,
+    "youtube": 1.5,
+    "linkedin": 2.0
+  },
+  "roi": {
+    "meta": 2.0,
+    "google_search": 3.0,
+    "pmax": 1.5,
+    "youtube": 0.9,
+    "linkedin": 0.6
+  },
+  "effect_max": {
+    "meta": 5046381.412143237,
+    "google_search": 3137830.370943187,
+    "pmax": 1478507.3373238833,
+    "youtube": 1195754.8911035554,
+    "linkedin": 210706.38514837262
+  },
+  "channel_scale": {
+    "meta": 2912182.5481114793,
+    "google_search": 1488490.8068505065,
+    "pmax": 903379.8625428192,
+    "youtube": 957213.5674843036,
+    "linkedin": 322284.1725762969
+  },
+  "contribution_total": {
+    "meta": 328030971.0,
+    "google_search": 315476599.0,
+    "pmax": 79849273.0,
+    "youtube": 36087288.0,
+    "linkedin": 14571652.0
+  },
+  "spend_total": {
+    "meta": 164015485.0,
+    "google_search": 105158866.0,
+    "pmax": 53232849.0,
+    "youtube": 40096987.0,
+    "linkedin": 24286087.0
+  }
+}

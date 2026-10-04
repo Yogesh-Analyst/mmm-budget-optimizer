@@ -1,0 +1,19 @@
+{
+  "baseline_media_revenue": 5000187.108300909,
+  "plan_media_revenue": 5118351.083412216,
+  "uplift_mean": 118163.9751113066,
+  "uplift_lo": -96764.10539850003,
+  "uplift_hi": 320478.32158431265,
+  "prob_uplift_positive": 0.861,
+  "weekly_budget": 2582679.2499999995,
+  "uplift_pct_of_media_revenue": 2.363191067693052,
+  "true_uplift_of_model_plan": 189376.82004251424,
+  "true_uplift_of_best_plan": 261403.8424655078,
+  "true_best_plan": {
+    "meta": 1325734.0,
+    "google_search": 835202.0,
+    "pmax": 213304.0,
+    "youtube": 126360.0,
+    "linkedin": 82080.0
+  }
+}

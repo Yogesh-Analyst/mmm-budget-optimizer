@@ -1,0 +1,10 @@
+{
+  "baseline_media_revenue": 199437.93784487687,
+  "plan_media_revenue": 240136.7412116354,
+  "uplift_mean": 40698.803366758555,
+  "uplift_lo": -1437.4557097403356,
+  "uplift_hi": 75786.503995647,
+  "prob_uplift_positive": 0.967,
+  "weekly_budget": 34378.6638092422,
+  "uplift_pct_of_media_revenue": 20.406750995597513
+}

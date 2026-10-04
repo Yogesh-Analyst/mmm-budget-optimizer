@@ -1,0 +1,13 @@
+{
+  "dataset": "Meta Robyn benchmark (public, USD)",
+  "weeks": 208,
+  "train_weeks": 166,
+  "holdout_weeks": 42,
+  "in_sample_mape": 0.06759902723314509,
+  "in_sample_r2": 0.9031918616636134,
+  "holdout_mape": 0.0902363591056358,
+  "media_share_of_revenue": 0.10891039520640444,
+  "max_rhat": 1.0038278188801715,
+  "min_ess_bulk": 1188.4202785478478,
+  "divergences": 0
+}
