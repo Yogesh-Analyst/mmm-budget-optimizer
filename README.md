@@ -4,7 +4,7 @@
 
 A Bayesian marketing mix model (MMM) built with [PyMC-Marketing](https://www.pymc-marketing.io/). It estimates each channel's return on spend from weekly aggregate data, with no user-level tracking or cookies. It then uses those estimates to recommend a better budget split, and reports how confident that recommendation is.
 
-▶ **Live demo:** _add your Streamlit link here_
+▶ **Live demo:** [mmm-budget-optimizer.streamlit.app](https://mmm-budget-optimizer.streamlit.app/)
 
 ---
 
